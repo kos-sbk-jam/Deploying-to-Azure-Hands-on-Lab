@@ -18,7 +18,7 @@ on:
 
 jobs:
   # ジョブの名前はメンバーで重複しないように指定
-  deploy-virtual-machine:
+  deploy-virtual-machine-kbs-5:
     runs-on: ubuntu-latest
 
     steps:
